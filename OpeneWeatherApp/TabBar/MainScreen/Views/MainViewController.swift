@@ -1,6 +1,9 @@
 import UIKit
 
-class MainViewController: UIViewController {
+final class MainViewController: UIViewController {
+    //MARK: Constants
+    
+    //MARK: Variables
     
     //MARK: Lifecycle
     override func viewDidLoad() {
