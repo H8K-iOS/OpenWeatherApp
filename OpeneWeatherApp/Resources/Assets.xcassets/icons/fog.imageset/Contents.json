@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Few clouds.png",
+      "filename" : "Foggy.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Few clouds 1.png",
+      "filename" : "Foggy 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Few clouds 2.png",
+      "filename" : "Foggy 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
